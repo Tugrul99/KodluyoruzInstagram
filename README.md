@@ -1,2 +1,2 @@
-# KodluyoruzInstagram
-Kodluyoruz Eğitimi kapsamında yaptigim instagram clone.
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
